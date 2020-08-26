@@ -3,4 +3,4 @@ This is the documentation of the course of recluze
 https://www.udemy.com/course/practical-deep-learning-with-keras/
 
 used 
-try.jupyter.org for the coding
+https://jupyter.org/try for the coding
